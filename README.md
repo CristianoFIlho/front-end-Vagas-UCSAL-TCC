@@ -1,8 +1,7 @@
 # front-end-Vagas-UCSAL-TCC
 Front-end application, portal de Vagas usando Chatbot interativo
 
-## Mockup UI
-![mockup](https://user-images.githubusercontent.com/54041918/227759622-a32cb79e-8fbf-4877-817f-fd49281035c2.png)
+
 
 
 
